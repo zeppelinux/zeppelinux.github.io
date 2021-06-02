@@ -1,0 +1,6 @@
+# curl -u yourname:yourtoken -X POST https://api.github.com/repos/yourname/yourrepo/pages/builds
+POST https://api.github.com/repos/zeppelinux/zeppelinux.github.io/pages/builds
+Authorization: Basic {{githubUser}} {{githubToken}}
+
+###
+
